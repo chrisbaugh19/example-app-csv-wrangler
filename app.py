@@ -29,7 +29,7 @@ def _max_width_():
 st.set_page_config(page_icon="✂️", page_title="BGG CSV Analyzer")
 
 st.image(
-    "src/bgg.png", width=100
+    "src/bgg.png", width=200
 )
 
 st.title("BGG Top Games Analyzer")
