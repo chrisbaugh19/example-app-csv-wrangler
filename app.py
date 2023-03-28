@@ -28,9 +28,8 @@ def _max_width_():
 
 st.set_page_config(page_icon="✂️", page_title="CSV Wrangler")
 
-# st.image("https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/balloon_1f388.png", width=100)
 st.image(
-    "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/scissors_2702-fe0f.png",
+    "/src/bgg.png",
     width=100,
 )
 
