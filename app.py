@@ -78,7 +78,7 @@ with c30:
     else:
         st.info(
             f"""
-                👆 Upload a .csv file first. Sample to try: [bgg.csv](https://github.com/chrisbaugh19/example-app-csv-wrangler/raw/main/src/bgg.csv)
+                👆 Upload a .csv file first. Sample to try: [bgg.csv](https://drive.google.com/file/d/1Eme1qPPlmSq_hDUSndjfsEtZro_Fro8w/view?usp=sharing)
                 """
         )
 
