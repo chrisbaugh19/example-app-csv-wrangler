@@ -29,8 +29,7 @@ def _max_width_():
 st.set_page_config(page_icon="✂️", page_title="CSV Wrangler")
 
 st.image(
-    "src/bgg.png",
-    width=100,
+    "src/bgg.png"
 )
 
 st.title("CSV Wrangler")
