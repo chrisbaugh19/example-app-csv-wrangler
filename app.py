@@ -78,7 +78,7 @@ with c30:
     else:
         st.info(
             f"""
-                👆 Upload a .csv file first. Sample to try: [bgg.csv](https://drive.google.com/file/d/1Eme1qPPlmSq_hDUSndjfsEtZro_Fro8w/view?usp=sharing)
+                👆 Upload a .csv file first. Sample to try: [bgg.csv](https://drive.google.com/u/0/uc?id=1Eme1qPPlmSq_hDUSndjfsEtZro_Fro8w&export=download)
                 """
         )
 
