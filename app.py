@@ -32,7 +32,7 @@ st.image(
     "src/bgg.png"
 )
 
-st.title("CSV Wrangler")
+st.title("BGG Top Games")
 
 # st.caption(
 #     "PRD : TBC | Streamlit Ag-Grid from Pablo Fonseca: https://pypi.org/project/streamlit-aggrid/"
@@ -78,7 +78,7 @@ with c30:
     else:
         st.info(
             f"""
-                👆 Upload a .csv file first. Sample to try: [biostats.csv](https://people.sc.fsu.edu/~jburkardt/data/csv/biostats.csv)
+                👆 Upload a .csv file first. Sample to try: [bgg.csv](src/bgg.csv)
                 """
         )
 
